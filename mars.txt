@@ -1,2 +1,4 @@
 Cold and dry, but everything is my favority color
 new file
+Let's see if there are any conflicts when owner and collaborator make 
+changes at the same time.
